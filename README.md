@@ -17,6 +17,7 @@ This is a simple, web-based Tic Tac Toe game built using HTML, CSS, and JavaScri
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
-## Project Structure
+## Skills used:
+- anonymous functions, 2D arrays, DOM manipulation, EventListeners etc
